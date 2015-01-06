@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE studentrecords SYSTEM "Students.dtd">
+	<studentrecords>
+<Student>
+		<fName>Beata</fName>	
+		<lName>Nied</lName>	
+		<status>Provisional</status>	
+		<major>Nursing</major>	
+	</Student>
+	<Student>
+		<fName>Keely</fName>	
+		<lName>Lyons</lName>	
+		<status>Full-Time</status>	
+		<major>HDFS</major>	
+	</Student>
+	<Student>
+		<fName>Mike</fName>	
+		<lName>Niedzielski</lName>	
+		<status>Part-Time</status>	
+		<major>IST</major>	
+	</Student>
+</studentrecords>

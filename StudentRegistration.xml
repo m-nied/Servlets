@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE customerRecords SYSTEM "Studentss.dtd"><studentrecords>
+
+	<Student>
+		<FName>Mike</FName>	
+		<LName>Niedzielski</LName>	
+		<status>part-time</status>	
+		<major>IST</major>	
+	</Student>
+	<Student>
+		<FName>Matt</FName>	
+		<LName>Nied</LName>	
+		<status>full-time</status>	
+		<major>Business</major>	
+	</Student>
+	<Student>
+		<FName>John</FName>	
+		<LName>Grim</LName>	
+		<status>part-time</status>	
+		<major>HDFS</major>	
+	</Student>
+	<Student>
+		<FName>April</FName>	
+		<LName>May</LName>	
+		<status>full-time</status>	
+		<major>nursing</major>	
+	</Student>
+	<Student>
+		<FName>April</FName>	
+		<LName>May</LName>	
+		<status>full-time</status>	
+		<major>nursing</major>	
+	</Student>
+	<Student>
+		<FName>jack</FName>	
+		<LName>black</LName>	
+		<status>full-tim</status>	
+		<major>ISt</major>	
+	</Student>
+	<Student>
+		<FName>jh</FName>	
+		<LName>asd</LName>	
+		<status>full-time</status>	
+		<major>nurse</major>	
+	</Student>
+</studentrecords>

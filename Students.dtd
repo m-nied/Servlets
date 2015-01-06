@@ -1,0 +1,6 @@
+<!ELEMENT studentrecords (Student*)>
+<!ELEMENT Student (fName, lName, status, major)>
+<!ELEMENT fName (#PCDATA)>
+<!ELEMENT lName (#PCDATA)>
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
